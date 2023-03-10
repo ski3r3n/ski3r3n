@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋,
+
+I'm ski3r3n
+
+# I am from ec3 HCI
+
+# I'm working on random things
+## I'm bad at GitHub, apologies if this is bad :)
+
+# Bye
+
 
 <!--
 **ski3r3n/ski3r3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
