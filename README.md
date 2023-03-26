@@ -5,6 +5,7 @@ I'm ski3r3n
 # I am from ec3 HCI
 
 # I'm working on random things
+## currently on my ✨platformer project✨
  I'm bad at GitHub, apologies if this is bad :)
 
 Bye
