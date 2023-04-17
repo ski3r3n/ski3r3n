@@ -7,8 +7,9 @@ I'm ski3r3n
 # I'm working on random things
 ## currently on my ✨platformer project✨
  I'm bad at GitHub, apologies if this is bad :)
-
-Bye
+## Languages I do:
+### HTML && JS && CSS && Python && C++
+###### Bye
 
 
 <!--
