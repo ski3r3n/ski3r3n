@@ -8,7 +8,7 @@ I'm ski3r3n
 ## currently on my ... my ... uhh ...
  I'm bad at GitHub, apologies if this is bad :)
 ## Languages I do:
-### HTML && JS && CSS && Python && C++
+### HTML && JS && CSS && Python && C++ && C#
 ###### Bye
 
 
