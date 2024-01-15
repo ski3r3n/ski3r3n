@@ -5,7 +5,7 @@ I'm ski3r3n
 # I am from ec3 HCI
 
 # I'm working on random things
-## currently on my ... my ... uhh ...
+## currently on my ... my ... uhh ... PW YES TOTALLY  ;D
  I'm bad at GitHub, apologies if this is bad :)
 ## Languages I do:
 ### HTML && JS && CSS && Python && C++ && C#
