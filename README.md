@@ -29,7 +29,7 @@ I'm glad to see you here, and thank you for your visit!<br>Here, you can get acc
 - 💻 I like to work on personal projects in my free time  
   
 
-- 📒 I am currently working on [Lecturise](https://github.com/ski3r3n/lecturizefinal), an AI note-taking web app  
+- 📒 Check out my project! [Lecturise](https://github.com/ski3r3n/lecturizefinal), an AI note-taking web app  
   
 
 - ⚡ Fun fact: I press tabs but it comes out as spaces
